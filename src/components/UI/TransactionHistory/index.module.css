@@ -1,0 +1,19 @@
+.transaction-history {
+    width: 900px;
+    text-align: center;
+    background-color: #f5f4fa;
+    box-shadow: 0px 2px 1px rgb(0 0 0 / 20%), 0px 1px 1px rgb(0 0 0 / 14%), 0px 1px 3px rgb(0 0 0 / 12%);
+}
+
+.transaction-history thead {
+    background-color: #601772;
+}
+.transaction-history td  {
+    background-color: rgb(184, 216, 238); 
+    font-size: 18px;
+}
+
+.transaction-history th {
+    font-size: 1.5rem;
+    color: #fff;
+}
